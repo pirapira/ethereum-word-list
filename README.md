@@ -118,7 +118,7 @@
 #### Blockchain
 #### Gas (Gas Limit vs Gas Price)
 * https://myetherwallet.groovehq.com/knowledge_base/topics/what-is-gas
-* Hudson's recent post on gas
+* [Hudson's recent post on gas](http://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/)
 
 #### ICO
 * coin center has a good reference I think
