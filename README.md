@@ -130,7 +130,7 @@
 #### Hash
 #### Multisig Wallet / Wallet Contract
 #### WEI vs GWEI vs Shannon vs Ether
-* http://i.imgur.com/SXpY3HU.jpg
+![http://i.imgur.com/SXpY3HU.jpg](http://i.imgur.com/SXpY3HU.jpg)
 
 All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.
 
