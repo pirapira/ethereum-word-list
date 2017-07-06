@@ -1,3 +1,5 @@
+## Words are Hard: Defining Common Terms in the Ethereum / Crypto Space
+
 #### Wallet
 
 * The interface / client / wrapper / holder that you use to manage your account(s).
