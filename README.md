@@ -125,6 +125,8 @@
 
 #### DAO
 #### Fork (Soft Fork vs Hard Fork)
+* [Vitalik: Hard Forks, Soft Forks, Defaults and Coercion](http://vitalik.ca/general/2017/03/14/forks_and_markets.html)
+
 #### Smart Contract
 #### Ðapp
 #### Hash
